@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experimental design; Parameter estimation; Reproducibility; Inverse problem | Computational BioSystems Lab</title>
+    <link>https://stroberg-lab.github.io/tag/experimental-design-parameter-estimation-reproducibility-inverse-problem/</link>
+      <atom:link href="https://stroberg-lab.github.io/tag/experimental-design-parameter-estimation-reproducibility-inverse-problem/index.xml" rel="self" type="application/rss+xml" />
+    <description>Experimental design; Parameter estimation; Reproducibility; Inverse problem</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>&amp;copy Wylie Stroberg 2021</copyright><lastBuildDate>Thu, 01 Dec 2016 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://stroberg-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Experimental design; Parameter estimation; Reproducibility; Inverse problem</title>
+      <link>https://stroberg-lab.github.io/tag/experimental-design-parameter-estimation-reproducibility-inverse-problem/</link>
+    </image>
+    
+    <item>
+      <title>On the estimation errors of $K_M$ and $V$ from time-course experiments using the Michaelis-Menten equation</title>
+      <link>https://stroberg-lab.github.io/publication/2016-stroberg-bpc/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0700</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/2016-stroberg-bpc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

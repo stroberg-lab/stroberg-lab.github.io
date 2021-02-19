@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Computational BioSystems Lab</title>
+    <link>https://stroberg-lab.github.io/publication-type/3/</link>
+      <atom:link href="https://stroberg-lab.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>&amp;copy Wylie Stroberg 2021</copyright><lastBuildDate>Tue, 03 Jul 2018 00:00:00 -0600</lastBuildDate>
+    <image>
+      <url>https://stroberg-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://stroberg-lab.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Do cellular condensates accelerate biochemical reactions? Lessons from microdroplet chemistry</title>
+      <link>https://stroberg-lab.github.io/publication/2018-stroberg-bpj/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 -0600</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/2018-stroberg-bpj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

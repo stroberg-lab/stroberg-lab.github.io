@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Schnell | Computational BioSystems Lab</title>
+    <link>https://stroberg-lab.github.io/author/s-schnell/</link>
+      <atom:link href="https://stroberg-lab.github.io/author/s-schnell/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Schnell</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>&amp;copy Wylie Stroberg 2021</copyright><lastBuildDate>Wed, 24 Apr 2019 00:00:00 -0600</lastBuildDate>
+    <image>
+      <url>https://stroberg-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S Schnell</title>
+      <link>https://stroberg-lab.github.io/author/s-schnell/</link>
+    </image>
+    
+    <item>
+      <title>Information processing by endoplasmic reticulum stress sensors</title>
+      <link>https://stroberg-lab.github.io/publication/2019-stroberg-rsi/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 -0600</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/2019-stroberg-rsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characteristic, completion or matching timescales? An analysis of temporary boundaries in enzyme kinetics</title>
+      <link>https://stroberg-lab.github.io/publication/2019-eilertsen-jtb/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 -0700</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/2019-eilertsen-jtb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to design an optimal sensor network for the unfolded protein response</title>
+      <link>https://stroberg-lab.github.io/publication/2018-stroberg-mbc/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 -0700</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/2018-stroberg-mbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase-plane geometries in coupled enzyme assays</title>
+      <link>https://stroberg-lab.github.io/publication/2018-eilertsen-mbs/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 -0700</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/2018-eilertsen-mbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A theory of reactant-stationary kinetics for a mechanism of zymogen activation</title>
+      <link>https://stroberg-lab.github.io/publication/2018-eilertsen-bpc/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0600</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/2018-eilertsen-bpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do cellular condensates accelerate biochemical reactions? Lessons from microdroplet chemistry</title>
+      <link>https://stroberg-lab.github.io/publication/2018-stroberg-bpj/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 -0600</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/2018-stroberg-bpj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gonadotropin-Releasing Hormone (GnRH) neuron excitability is regulated by estradiol feedback and kisspeptin</title>
+      <link>https://stroberg-lab.github.io/publication/2018-adams-jns/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 -0700</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/2018-adams-jns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the origin of non-membrane-bound organelles, and their physiological function</title>
+      <link>https://stroberg-lab.github.io/publication/2017-stroberg-jtb/</link>
+      <pubDate>Thu, 07 Dec 2017 00:00:00 -0700</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/2017-stroberg-jtb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the validity and errors of the pseudo-first-order kinetics in ligand-receptor binding</title>
+      <link>https://stroberg-lab.github.io/publication/2017-stroberg-mbs/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 -0600</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/2017-stroberg-mbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the estimation errors of $K_M$ and $V$ from time-course experiments using the Michaelis-Menten equation</title>
+      <link>https://stroberg-lab.github.io/publication/2016-stroberg-bpc/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0700</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/2016-stroberg-bpc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
