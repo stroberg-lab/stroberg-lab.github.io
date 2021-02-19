@@ -12,6 +12,7 @@ cp -r ${STATIC}/* ${SITEMASTER}
 
 # Commit and Push updated website
 cd $SITEMASTER
+git add * :/
 git commit -m 'website update'
 git push -u origin master
 
