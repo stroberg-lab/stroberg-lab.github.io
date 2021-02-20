@@ -5,7 +5,7 @@
     <link>https://stroberg-lab.github.io/</link>
       <atom:link href="https://stroberg-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Computational BioSystems Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Wylie Stroberg 1999</copyright><lastBuildDate>Wed, 24 Apr 2019 00:00:00 -0600</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Wylie Stroberg 2021</copyright><lastBuildDate>Fri, 19 Feb 2021 00:00:00 -0700</lastBuildDate>
     <image>
       <url>https://stroberg-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Computational BioSystems Lab</title>
@@ -13,82 +13,162 @@
     </image>
     
     <item>
-      <title>Information processing by endoplasmic reticulum stress sensors</title>
-      <link>https://stroberg-lab.github.io/publication/2019-stroberg-rsi/</link>
-      <pubDate>Wed, 24 Apr 2019 00:00:00 -0600</pubDate>
-      <guid>https://stroberg-lab.github.io/publication/2019-stroberg-rsi/</guid>
+      <title>Systems Biology of Proteostasis and the Unfolded Protein Response</title>
+      <link>https://stroberg-lab.github.io/project/unfolded-protein-response/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 -0700</pubDate>
+      <guid>https://stroberg-lab.github.io/project/unfolded-protein-response/</guid>
+      <description>&lt;p&gt;Approximately 1/3 of proteins in eukaryotic cells originate in the endoplasmic reticulum (ER). The proper
+folding of proteins within the ER requires the coordination of chaperones and foldases to guide nascent
+proteins to the correct conformation. Should the folding environment within the ER be perturbed, the cell
+must respond to restore proteostasis, or else risk accumulation of misfolded proteins. The inability to do
+so has been implicated in numerous protein folding diseases such as Alzheimer&amp;rsquo;s and Parkinson&amp;rsquo;s disease,
+as well as diabetes and cancer.&lt;/p&gt;
+&lt;p&gt;​The main regulatory mechanism by which cells control the ER environment is the unfolded protein response
+(UPR). The UPR is a coordinated set of regulatory responses that originate from three signaling proteins
+in the ER membrane, and seeks to mitigate unfolded protein &amp;ldquo;stress&amp;rdquo; by increasing the folding capacity of
+the ER and decreasing translation. Should these interventions prove insufficient, the UPR initiates apoptosis.&lt;/p&gt;
+&lt;p&gt;​I am interested in understanding how cells determine how stressed they are and how they coordinate a diverse
+array of responses to mitigate that stress. The dynamic nature of the ER chemical environment, shape and
+membrane composition makes stress signaling particularly complex. The response is equally complex, altering
+the folding propensity, quality control, and export from the ER. To develop a theoretical understanding of
+the protein secretory process across multiple scales, I employ techniques from control theory, signal processing
+and information theory, chemical kinetics and molecular simulation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reactions in Crowded Cellular Compartments</title>
+      <link>https://stroberg-lab.github.io/project/crowded-compartments/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 -0700</pubDate>
+      <guid>https://stroberg-lab.github.io/project/crowded-compartments/</guid>
+      <description>&lt;p&gt;Compartmentalization is the hallmark of eukaryotic life. While subcellular membrane-bound organelles have been
+long formed the basis of cell biology, recently it has become clear that compartmentalization of proteins and
+RNA also occurs transiently through liquid-liquid phase separation of the cytoplasm. The functional implications
+of phase-separated macromolecular droplets are currently poorly understood. In many cases, droplets concentrate
+enzymes, accelerating the processing of their substrates, while in other cases droplets sequester enzymes to
+prevent their activity. In this project, we seek to develop theoretical understanding of how phase separation
+and compartmentalization work in concert to adjust the rate of biochemical reactions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Manuscript Title: Concentration Sensing in Crowded Environments Concentration Sensing in Crowded Environments</title>
+      <link>https://stroberg-lab.github.io/publication/stroberg2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/stroberg2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characteristic, completion or matching timescales? An analysis of temporary boundaries in enzyme kinetics</title>
-      <link>https://stroberg-lab.github.io/publication/2019-eilertsen-jtb/</link>
-      <pubDate>Sat, 05 Jan 2019 00:00:00 -0700</pubDate>
-      <guid>https://stroberg-lab.github.io/publication/2019-eilertsen-jtb/</guid>
+      <link>https://stroberg-lab.github.io/publication/eilertsen2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/eilertsen2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wetting Phenomena of Nanoscale Structures</title>
+      <link>https://stroberg-lab.github.io/project/computational-nanofluidics/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 -0600</pubDate>
+      <guid>https://stroberg-lab.github.io/project/computational-nanofluidics/</guid>
+      <description>&lt;p&gt;Description of research forthcoming.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information processing by endoplasmic reticulum stress sensors</title>
+      <link>https://stroberg-lab.github.io/publication/stroberg2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/stroberg2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characteristic, completion or matching timescales? an analysis of temporary boundaries in enzyme kinetics</title>
+      <link>https://stroberg-lab.github.io/publication/eilertsen2018a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/eilertsen2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Cellular Condensates Accelerate Biochemical Reactions? Lessons from Microdroplet Chemistry</title>
+      <link>https://stroberg-lab.github.io/publication/stroberg2018a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/stroberg2018a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to design an optimal sensor network for the unfolded protein response</title>
-      <link>https://stroberg-lab.github.io/publication/2018-stroberg-mbc/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 -0700</pubDate>
-      <guid>https://stroberg-lab.github.io/publication/2018-stroberg-mbc/</guid>
+      <link>https://stroberg-lab.github.io/publication/stroberg2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/stroberg2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Phase-plane geometries in coupled enzyme assays</title>
-      <link>https://stroberg-lab.github.io/publication/2018-eilertsen-mbs/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 -0700</pubDate>
-      <guid>https://stroberg-lab.github.io/publication/2018-eilertsen-mbs/</guid>
+      <title>Theory of the reactant-stationary kinetics for a coupled auxiliary enzyme assay</title>
+      <link>https://stroberg-lab.github.io/publication/eilertsen2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/eilertsen2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A theory of reactant-stationary kinetics for a mechanism of zymogen activation</title>
-      <link>https://stroberg-lab.github.io/publication/2018-eilertsen-bpc/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0600</pubDate>
-      <guid>https://stroberg-lab.github.io/publication/2018-eilertsen-bpc/</guid>
+      <title>Gonadotropin-Releasing Hormone (GnRH) Neuron Excitability Is Regulated by Estradiol Feedback and Kisspeptin</title>
+      <link>https://stroberg-lab.github.io/publication/adams2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/adams2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Do cellular condensates accelerate biochemical reactions? Lessons from microdroplet chemistry</title>
-      <link>https://stroberg-lab.github.io/publication/2018-stroberg-bpj/</link>
-      <pubDate>Tue, 03 Jul 2018 00:00:00 -0600</pubDate>
-      <guid>https://stroberg-lab.github.io/publication/2018-stroberg-bpj/</guid>
+      <title>On the validity and errors of the pseudo-first-order kinetics in ligand–receptor binding</title>
+      <link>https://stroberg-lab.github.io/publication/stroberg2017a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/stroberg2017a/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gonadotropin-Releasing Hormone (GnRH) neuron excitability is regulated by estradiol feedback and kisspeptin</title>
-      <link>https://stroberg-lab.github.io/publication/2018-adams-jns/</link>
-      <pubDate>Wed, 31 Jan 2018 00:00:00 -0700</pubDate>
-      <guid>https://stroberg-lab.github.io/publication/2018-adams-jns/</guid>
+      <title>On the estimation errors of KM and V from time-course experiments using the Michaelis–Menten equation</title>
+      <link>https://stroberg-lab.github.io/publication/stroberg2016a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/stroberg2016a/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>On the origin of non-membrane-bound organelles, and their physiological function</title>
-      <link>https://stroberg-lab.github.io/publication/2017-stroberg-jtb/</link>
-      <pubDate>Thu, 07 Dec 2017 00:00:00 -0700</pubDate>
-      <guid>https://stroberg-lab.github.io/publication/2017-stroberg-jtb/</guid>
+      <title>Advancements in multiresolution analysis</title>
+      <link>https://stroberg-lab.github.io/publication/moore2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/moore2015/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>On the validity and errors of the pseudo-first-order kinetics in ligand-receptor binding</title>
-      <link>https://stroberg-lab.github.io/publication/2017-stroberg-mbs/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 -0600</pubDate>
-      <guid>https://stroberg-lab.github.io/publication/2017-stroberg-mbs/</guid>
+      <title>Multiscale modeling and uncertainty quantification in nanoparticle-mediated drug/gene delivery</title>
+      <link>https://stroberg-lab.github.io/publication/li2014a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/li2014a/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>On the estimation errors of $K_M$ and $V$ from time-course experiments using the Michaelis-Menten equation</title>
-      <link>https://stroberg-lab.github.io/publication/2016-stroberg-bpc/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 -0700</pubDate>
-      <guid>https://stroberg-lab.github.io/publication/2016-stroberg-bpc/</guid>
+      <title>Hydrodynamics of capillary imbibition under nanoconfinement</title>
+      <link>https://stroberg-lab.github.io/publication/stroberg2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/stroberg2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heat transfer coefficients of natural volcanic clasts</title>
+      <link>https://stroberg-lab.github.io/publication/stroberg2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/stroberg2010/</guid>
       <description></description>
     </item>
     

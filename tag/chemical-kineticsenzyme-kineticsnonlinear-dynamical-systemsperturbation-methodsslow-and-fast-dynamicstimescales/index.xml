@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chemical kinetics,enzyme kinetics,nonlinear dynamical systems,perturbation methods,slow and fast dynamics,timescales | Computational BioSystems Lab</title>
+    <link>https://stroberg-lab.github.io/tag/chemical-kineticsenzyme-kineticsnonlinear-dynamical-systemsperturbation-methodsslow-and-fast-dynamicstimescales/</link>
+      <atom:link href="https://stroberg-lab.github.io/tag/chemical-kineticsenzyme-kineticsnonlinear-dynamical-systemsperturbation-methodsslow-and-fast-dynamicstimescales/index.xml" rel="self" type="application/rss+xml" />
+    <description>chemical kinetics,enzyme kinetics,nonlinear dynamical systems,perturbation methods,slow and fast dynamics,timescales</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Wylie Stroberg 2021</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stroberg-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>chemical kinetics,enzyme kinetics,nonlinear dynamical systems,perturbation methods,slow and fast dynamics,timescales</title>
+      <link>https://stroberg-lab.github.io/tag/chemical-kineticsenzyme-kineticsnonlinear-dynamical-systemsperturbation-methodsslow-and-fast-dynamicstimescales/</link>
+    </image>
+    
+    <item>
+      <title>Characteristic, completion or matching timescales? An analysis of temporary boundaries in enzyme kinetics</title>
+      <link>https://stroberg-lab.github.io/publication/eilertsen2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/eilertsen2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characteristic, completion or matching timescales? an analysis of temporary boundaries in enzyme kinetics</title>
+      <link>https://stroberg-lab.github.io/publication/eilertsen2018a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://stroberg-lab.github.io/publication/eilertsen2018a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
