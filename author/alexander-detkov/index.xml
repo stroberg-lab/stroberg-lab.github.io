@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Detkov | Computational BioSystems Lab</title>
+    <link>https://stroberg-lab.github.io/author/alexander-detkov/</link>
+      <atom:link href="https://stroberg-lab.github.io/author/alexander-detkov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander Detkov</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Wylie Stroberg 2021</copyright>
+    <image>
+      <url>https://stroberg-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Alexander Detkov</title>
+      <link>https://stroberg-lab.github.io/author/alexander-detkov/</link>
+    </image>
+    
+  </channel>
+</rss>
